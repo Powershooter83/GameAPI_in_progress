@@ -1,0 +1,6 @@
+name: gameApi
+author: prouge
+version: 1.0
+main: me.prouge.gameApi.Main
+commands:
+  bw:

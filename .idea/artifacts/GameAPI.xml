@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameAPI">
+    <output-path>$USER_HOME$/Desktop/Localhost/plugins</output-path>
+    <root id="archive" name="GameAPI.jar">
+      <element id="module-output" name="GameAPI" />
+      <element id="file-copy" path="$PROJECT_DIR$/rsc/plugin.yml" />
+    </root>
+  </artifact>
+</component>
